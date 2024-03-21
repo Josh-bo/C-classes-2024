@@ -1,0 +1,4 @@
+To run  a C++, we need an Editor
+
+g++ -o index index.cpp --- TO COMPILE;
+index ---- TO RUN (call the name of the file).
